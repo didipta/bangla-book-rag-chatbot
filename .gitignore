@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+
+# Generated data / model artifacts
+/data/raw/book_pages.json
+/data/index/*
+/data/chunks.jsonl
+/data/index/
+
+DEMO_SCRIPT.md
