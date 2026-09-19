@@ -2,6 +2,8 @@
 
 An intelligent, strictly grounded **Retrieval-Augmented Generation (RAG)** chatbot that answers questions from a complete Bengali book hosted on **Bengali Wikisource**.
 
+> 🎥 **Video Demo:** [Watch on Google Drive](https://drive.google.com/file/d/1SqT95sSk-_WL6a69PIo6Gye9GskD1UqI/view?usp=drive_link)
+
 ---
 
 ## 1. 📖 Selected Book Information
@@ -205,7 +207,9 @@ $$\text{Hit Rate} = \frac{\text{Questions where correct chapter section is retri
 
 ---
 
-## 8. 🎥 Demo Video Guide (3–5 Minutes)
+## 8. 🎥 Demo Video (3–5 Minutes)
+
+- 🔗 **Demo Video Link (Google Drive):** [https://drive.google.com/file/d/1SqT95sSk-_WL6a69PIo6Gye9GskD1UqI/view?usp=drive_link](https://drive.google.com/file/d/1SqT95sSk-_WL6a69PIo6Gye9GskD1UqI/view?usp=drive_link)
 
 Follow the structured script in [DEMO_SCRIPT.md](DEMO_SCRIPT.md):
 1. **Part 1 — Pipeline Demo (0:00–1:00):** Show terminal crawler, ingest index creation, and architecture overview.

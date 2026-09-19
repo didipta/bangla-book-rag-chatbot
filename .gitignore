@@ -1,4 +1,6 @@
 .venv/
+venv/
+.streamlit/
 __pycache__/
 *.py[cod]
 .env
