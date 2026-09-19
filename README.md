@@ -1,8 +1,10 @@
 # 📚 Bangla Book Knowledge Base Chatbot (RAG + Vector DB)
 
-An intelligent, strictly grounded **Retrieval-Augmented Generation (RAG)** chatbot that answers questions from a complete Bengali book hosted on **Bengali Wikisource**.
+[![Watch Demo Video](https://img.shields.io/badge/▶%EF%B8%8F%20Demo%20Video-Google%20Drive-red?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SqT95sSk-_WL6a69PIo6Gye9GskD1UqI/view?usp=drive_link)
 
-> 🎥 **Video Demo:** [Watch on Google Drive](https://drive.google.com/file/d/1SqT95sSk-_WL6a69PIo6Gye9GskD1UqI/view?usp=drive_link)
+> 🎥 **Demo Video Link:** [https://drive.google.com/file/d/1SqT95sSk-_WL6a69PIo6Gye9GskD1UqI/view?usp=drive_link](https://drive.google.com/file/d/1SqT95sSk-_WL6a69PIo6Gye9GskD1UqI/view?usp=drive_link)
+
+An intelligent, strictly grounded **Retrieval-Augmented Generation (RAG)** chatbot that answers questions from a complete Bengali book hosted on **Bengali Wikisource**.
 
 ---
 
